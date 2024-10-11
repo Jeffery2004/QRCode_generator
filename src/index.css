@@ -1,0 +1,35 @@
+input{
+  display:block;
+  align-item:center;
+  width:300px;
+  border:2px solid #3498db;
+}
+label{
+  display:block;
+  padding:15px;
+  color:#3498db;
+  font-size:19px;
+}
+.container{
+  margin-left:40%;
+  margin-top:10%;
+}
+img{
+  margin-left:55px;
+  align-items:center;
+}
+.but{
+  margin-top:30px;
+  padding:10px;
+  border:none;
+  background-color:#3498db;
+  color:white;
+  border-radius:10px;
+  margin-left:20px;
+}
+.but:hover{
+  cursor:pointer;
+}
+.but:hover{
+  background-color:green;
+}
